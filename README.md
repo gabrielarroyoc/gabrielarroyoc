@@ -11,5 +11,5 @@ Front-end developer.
 
 Hi, my name's Gabriel Arroyo, but can just call me by **Arroyo**. 
 
-I'm 19yo and currently I'm work as software developer, focused on front-end. I develop amazing projects using wonderful technologies, such as **ReactJS** e **Typescript**.
+I'm 20yo and currently I'm work as software developer, focused on front-end. I develop amazing projects using wonderful technologies, such as **ReactJS** e **Typescript**.
 
